@@ -10,7 +10,7 @@ tests:
       - "TV play the last track"
       - "TV play the previous song"
       - "TV play the previous song again"
-      - "TV replay the last track again"
+      - "TV replay the last track"
     intent:
       name: HassMediaPrevious
       slots:
